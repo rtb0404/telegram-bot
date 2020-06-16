@@ -3,3 +3,16 @@
 
 # Ada Library Information
 *.ali
+
+
+__pycache__/
+*.py[cod]
+
+.handler-saves
+
+# Editor directories and files
+.idea
+*.suo
+*.sln
+*.sw?
+*.njsproj
